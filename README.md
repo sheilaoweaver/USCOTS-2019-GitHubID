@@ -32,6 +32,7 @@
 | Matthew Beckman       | mdbeckman                 |  <https://mdbeckman.github.io/>                    |  
 | Matt | mdbeckman | some website |
 | Adam Sullivan | sullivanstatistics | |
+| Sheila Weaver | sheilaoweaver |
 <br>
 
 # Integration of RStudio with Git
